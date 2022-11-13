@@ -12,4 +12,4 @@ Click on the cell.
 
 ![Starting screen](https://raw.githubusercontent.com/Harshh2426/Memory-Based-Game/main/Starting.png)
 
-![Winning screen](https://github.com/Harshh2426/Memory-Based-Game/blob/main/Wining.png)
+![Winning screen](https://raw.githubusercontent.com/Harshh2426/Memory-Based-Game/main/Wining.png)
