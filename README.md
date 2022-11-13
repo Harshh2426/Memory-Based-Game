@@ -10,6 +10,6 @@ Click on the cell.
 
 ## Screenshots
 
-![Starting screen](https://github.com/Harshh2426/Memory-Based-Game/blob/main/Starting.png)
+![Starting screen](https://raw.githubusercontent.com/Harshh2426/Memory-Based-Game/main/Starting.png)
 
 ![Winning screen](https://github.com/Harshh2426/Memory-Based-Game/blob/main/Wining.png)
